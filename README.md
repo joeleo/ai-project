@@ -4,12 +4,14 @@
 这个项目主要记录使用 AI 编程工具的学习心得和练手项目，帮助更好地理解和利用 AI 辅助编程。
 
 ## 项目结构 
+```
 .
 ├── README.md # 项目说明文档
-└── 网页内容任意复制tempermonkey脚本/ # Tampermonkey 插件项目
-├── README.md # 插件说明文档
-└── article-to-markdown.user.js # 插件源代码
-
+└── 网页内容任意复制tempermonkey脚本/ 
+    ├── README.md # 插件说明文档
+    └── article-to-markdown.user.js # 插件源代码
+    
+```
 
 ## 项目列表
 
